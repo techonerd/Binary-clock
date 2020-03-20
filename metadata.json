@@ -1,0 +1,8 @@
+{
+  "description": "adds a binary clock to the gnome bar",
+  "name": "binaryclock",
+  "shell-version": ["3.32.2"],
+  "url": "",
+  "uuid": "binaryclock@techonerd",
+  "version": 1
+}
